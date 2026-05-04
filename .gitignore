@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv
+.ipynb_checkpoints/
+
+# keep structure but ignore contents
+data/*
+!data/.gitkeep
+
+outputs/*
+!outputs/.gitkeep
